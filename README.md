@@ -1,2 +1,2 @@
 # A Portfolio
-A Portfolio of things
+A Portfolio of me
